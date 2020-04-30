@@ -39,8 +39,7 @@ saved custom model.
 The saved custom model creates a feature map of the uploaded medical test
 image and predicts the output.
 - **Determine and Analyze the Output:**<br/>
-The predicted output is then analyzed (0 means normal; 1means positive)
-and converted to a user friendly language.
+The predicted output is then analyzed and converted to a user friendly language.
 - **Display the Output:**<br/>
 The analyzed result is then displayed to the user.
 
@@ -58,6 +57,7 @@ If the user has a workstation that works on Windows OS then that person can easi
 - **Operating System:** Minimum Windows XP or Windows VISTA. Better environment Windows 7, 8, 8.1, 10.
 - **Language:** Python 3.6
 - A workstation which will run on any Windows OS is needed to predict the diseases using this system.
+
 ##### Performance Requirements
 - The product performance will be based on a local system.
 - The image prediction will take some time.
@@ -70,3 +70,15 @@ Not Applicable.
 All right reserved by our team.
 - **Applicable Standards:**<br/>
 It should be as per the medical standard.
+
+###References
+- [www.google.com](www.google.com) - the world’s information
+- [www.kaggle.com](www.kaggle.com) - the world’s largest data science community
+- [www.tensorflow.org](www.tensorflow.org) - open source machine-learning platform
+- [www.superdatascience.com/deep-learning](www.superdatascience.com/deep-learning) - online educational platform
+- [www.udemy.com](www.udemy.com) - online learning platform
+### Product Developers
+- [**Rituraj Saha**](https://www.linkedin.com/in/rituraj-saha/)
+- [**Ritam Barik**](https://www.linkedin.com/in/ritam-barik-557905195/)
+- [**Pranav Jain](https://www.linkedin.com/in/pranav-jain-0516ba195/)
+- [**Anish Kumar](https://www.linkedin.com/in/anish-kumar-6a5b60169/)
