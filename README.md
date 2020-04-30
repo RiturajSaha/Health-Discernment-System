@@ -28,20 +28,19 @@ System will read the image uploaded by the user, augment it and will use the
 saved custom model to detect whether the disease is present or not in the patient
 and thus display the result in a user-friendly language.
 ##### Below are the step:
-- **Upload Image**
-The user can upload the medical test image through a workstation running on Windows OS. The image should be in jpeg, png or jpg format.
-- **Read Image**
+- **Upload Image**  The user can upload the medical test image through a workstation running on Windows OS. The image should be in jpeg, png or jpg format.
+- **Read Image:**
 The image will be scanned before augmentation takes place.
-- **Transform Image**
+- **Transform Image:**
 The scanned image is then transformed into a format that is needed by the
 saved custom model.
-- **Evaluate image using saved model**
+- **Evaluate image using saved model:**
 The saved custom model creates a feature map of the uploaded medical test
 image and predicts the output.
-- **Determine and Analyze the Output**
+- **Determine and Analyze the Output:**
 The predicted output is then analyzed (0 means normal; 1means positive)
 and converted to a user friendly language.
-- **Display the Output**
+- **Display the Output:**
 The analyzed result is then displayed to the user.
 
 
@@ -55,10 +54,10 @@ If the user has a workstation that works on Windows OS then that person can easi
 
 ### Product Requirements
 ##### Operating Environment
-**Operating System:*** Minimum Windows XP or Windows VISTA. Better environment Windows 7, 8, 8.1, 10.
-**Language:** Python 3.6
-A workstation which will run on any Windows OS is needed to predict the diseases using this system.
-###### Performance Requirements
+- **Operating System:*** Minimum Windows XP or Windows VISTA. Better environment Windows 7, 8, 8.1, 10.
+- **Language:** Python 3.6
+- A workstation which will run on any Windows OS is needed to predict the diseases using this system.
+##### Performance Requirements
 - The product performance will be based on a local system.
 - The image prediction will take some time.
 - The evaluation performance will depend on some software and hardware components.
