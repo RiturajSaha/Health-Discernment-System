@@ -28,19 +28,20 @@ System will read the image uploaded by the user, augment it and will use the
 saved custom model to detect whether the disease is present or not in the patient
 and thus display the result in a user-friendly language.
 ##### Below are the step:
-- **Upload Image**<br/>The user can upload the medical test image through a workstation running on Windows OS. The image should be in jpeg, png or jpg format.
-- **Read Image:**
+- **Upload Image:**<br/>
+The user can upload the medical test image through a workstation running on Windows OS. The image should be in jpeg, png or jpg format.
+- **Read Image:**<br/>
 The image will be scanned before augmentation takes place.
-- **Transform Image:**
+- **Transform Image:**<br/>
 The scanned image is then transformed into a format that is needed by the
 saved custom model.
-- **Evaluate image using saved model:**
+- **Evaluate image using saved model:**<br/>
 The saved custom model creates a feature map of the uploaded medical test
 image and predicts the output.
-- **Determine and Analyze the Output:**
+- **Determine and Analyze the Output:**<br/>
 The predicted output is then analyzed (0 means normal; 1means positive)
 and converted to a user friendly language.
-- **Display the Output:**
+- **Display the Output:**<br/>
 The analyzed result is then displayed to the user.
 
 
@@ -54,7 +55,7 @@ If the user has a workstation that works on Windows OS then that person can easi
 
 ### Product Requirements
 ##### Operating Environment
-- **Operating System:*** Minimum Windows XP or Windows VISTA. Better environment Windows 7, 8, 8.1, 10.
+- **Operating System:** Minimum Windows XP or Windows VISTA. Better environment Windows 7, 8, 8.1, 10.
 - **Language:** Python 3.6
 - A workstation which will run on any Windows OS is needed to predict the diseases using this system.
 ##### Performance Requirements
@@ -63,9 +64,9 @@ If the user has a workstation that works on Windows OS then that person can easi
 - The evaluation performance will depend on some software and hardware components.
 
 ##### Other Requirements
-- **Licensing Requirements:**
+- **Licensing Requirements:**<br/>
 Not Applicable.
-- **Legal, Copyright, and Other Notices:**
+- **Legal, Copyright, and Other Notices:**<br/>
 All right reserved by our team.
-- **Applicable Standards:**
+- **Applicable Standards:**<br/>
 It should be as per the medical standard.
