@@ -72,13 +72,12 @@ All right reserved by our team.
 It should be as per the medical standard.
 
 ###References
-- [www.google.com](https://www.google.com) - the world’s information
 - [www.kaggle.com](https://www.kaggle.com) - the world’s largest data science community
 - [www.tensorflow.org](https://www.tensorflow.org) - open source machine-learning platform
 - [www.superdatascience.com/deep-learning](https://www.superdatascience.com/deep-learning) - online educational platform
 - [www.udemy.com](https://www.udemy.com) - online learning platform
 ### Product Developers
-- [**Rituraj Saha**](https://www.linkedin.com/in/rituraj-saha/)
-- [**Ritam Barik**](https://www.linkedin.com/in/ritam-barik-557905195/)
-- [**Pranav Jain**](https://www.linkedin.com/in/pranav-jain-0516ba195/)
-- [**Anish Kumar**](https://www.linkedin.com/in/anish-kumar-6a5b60169/)
+[**Rituraj Saha**](https://www.linkedin.com/in/rituraj-saha/)</br>
+[**Ritam Barik**](https://www.linkedin.com/in/ritam-barik-557905195/)</br>
+[**Pranav Jain**](https://www.linkedin.com/in/pranav-jain-0516ba195/)</br>
+[**Anish Kumar**](https://www.linkedin.com/in/anish-kumar-6a5b60169/)</br>
