@@ -1,1 +1,1 @@
-# Disease-Detection-System
+# Health-Discernment-System
