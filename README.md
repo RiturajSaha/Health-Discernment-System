@@ -2,7 +2,7 @@
 
 
 ### Product Link 
-   [*setup*](https://drive.google.com/open?id=1CcUnRM_3RQC34I1HZBy4ggGEnSNUf_Km) - google drive download link
+  **Google drive download link:** [[*setup*]](https://drive.google.com/open?id=1CcUnRM_3RQC34I1HZBy4ggGEnSNUf_Km)
 
 
 ### Product Description
