@@ -2,7 +2,7 @@
 
 
 ### Product Link 
-- [*setup*](https://drive.google.com/open?id=1CcUnRM_3RQC34I1HZBy4ggGEnSNUf_Km) - google drive download link
+    [*setup*](https://drive.google.com/open?id=1CcUnRM_3RQC34I1HZBy4ggGEnSNUf_Km) - google drive download link
 
 
 ### Product Description
@@ -89,4 +89,4 @@ All right reserved by our team.
 - [*www.udemy.com*](https://www.udemy.com) - online learning platform
 
 
-(**Note:** The custom CNN disease models are not uploaded in the repository.)
+(**Note:** The custom CNN models are not uploaded in the repository.)
