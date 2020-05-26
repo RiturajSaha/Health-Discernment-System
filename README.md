@@ -83,4 +83,4 @@ All right reserved by our team.
 [**Pranav Jain**](https://www.linkedin.com/in/pranav-jain-0516ba195/)</br>
 [**Anish Kumar**](https://www.linkedin.com/in/anish-kumar-6a5b60169/)</br>
 
-**Note:** The custom CNN disease models are not uploaded in the repository.
+(**Note:** The custom CNN disease models are not uploaded in the repository.)
