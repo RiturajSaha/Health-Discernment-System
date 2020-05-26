@@ -1,11 +1,9 @@
 # Health-Discernment-System
 
-### Links and References
+
+### Product Link 
 - [*setup*](https://drive.google.com/open?id=1CcUnRM_3RQC34I1HZBy4ggGEnSNUf_Km) - google drive download link
-- [*www.kaggle.com*](https://www.kaggle.com) - the world’s largest data science community
-- [*www.tensorflow.org*](https://www.tensorflow.org) - open source machine-learning platform
-- [*www.superdatascience.com/deep-learning*](https://www.superdatascience.com/deep-learning) - online educational platform
-- [*www.udemy.com*](https://www.udemy.com) - online learning platform
+
 
 ### Product Description
 Diseases like Malaria, Pneumonia, Breast cancer and Skin cancer are very common and suffering patients are increasing every day. So our team has created a Helath Discernment System which will detect if a patient is suffering from Malaria, Pneumonia, Breast cancer or Skin cancer by taking an essential input image. The frontend of this product is created using Python Tkinter module and for backend, four different custom CNN models are developed for detecting the diseases.
@@ -77,10 +75,18 @@ Not Applicable.
 All right reserved by our team.
 
 
-### Product Developers
+### Developers
 [**Rituraj Saha**](https://www.linkedin.com/in/rituraj-saha/)</br>
 [**Ritam Barik**](https://www.linkedin.com/in/ritam-barik-557905195/)</br>
 [**Pranav Jain**](https://www.linkedin.com/in/pranav-jain-0516ba195/)</br>
 [**Anish Kumar**](https://www.linkedin.com/in/anish-kumar-6a5b60169/)</br>
+
+
+### References
+- [*www.kaggle.com*](https://www.kaggle.com) - the world’s largest data science community
+- [*www.tensorflow.org*](https://www.tensorflow.org) - open source machine-learning platform
+- [*www.superdatascience.com/deep-learning*](https://www.superdatascience.com/deep-learning) - online educational platform
+- [*www.udemy.com*](https://www.udemy.com) - online learning platform
+
 
 (**Note:** The custom CNN disease models are not uploaded in the repository.)
