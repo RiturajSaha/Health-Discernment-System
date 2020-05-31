@@ -76,7 +76,7 @@ If the user has a workstation that works on Windows OS then that person can easi
 - **Licensing Requirements:**<br/>
 Not Applicable.
 - **Legal, Copyright, and Other Notices:**<br/>
-All right reserved by our team.
+All rights reserved by our team.
 
 
 ### Developers
