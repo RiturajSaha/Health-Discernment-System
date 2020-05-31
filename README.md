@@ -2,7 +2,7 @@
 
 
 ### Product Link 
-  **Google drive download link:** [*setup.exe*](https://drive.google.com/file/d/1CcUnRM_3RQC34I1HZBy4ggGEnSNUf_Km/view)
+  **Google drive download link:** [*setup.exe*](https://drive.google.com/file/d/1dygnaNqhaH3oj22UO-oyarkNe4ZvaUFD/view?usp=sharing)
 
 
 ### Product Description
@@ -13,8 +13,8 @@ Diseases like Malaria, Pneumonia, Breast cancer and Skin cancer are very common 
 | ------------- | ------------- |
 | Malaria  | 95.21%  |
 | Pneumonia  | 90.47%  |
-| Breast Cancer  | 86.88%  |
-| Skin Cancer  | 83.58%  |
+| Breast Cancer  | 86.82%  |
+| Skin Cancer  | 84.77%  |
 
 
 ### Product Scope
