@@ -17,13 +17,13 @@ Diseases like Malaria, Pneumonia, Breast cancer and Skin cancer are very common 
 | Skin Cancer  | 84.77%  |
 
 
-### Use Case Diagram
-![UML](https://github.com/RiturajSaha/Health-Discernment-System/blob/master/images/UML.jpg)
-
-
 ### Product Scope
 This system will help to predict the medical results efficiently. In this predicting system, we will provide an user friendly interface that can be used by the users to detect whether their medical test results are positive or normal, i.e. it will detect the disease. This will ultimately help the patients to save time as they won’t have to run to the doctor just to know what their medical
 reports say. In case the test results are negative, it will greatly help the patient to save money, as there won’t be any requirement to visit the doctor again. Decisions are often made based on the doctor’s intuition and experience and sometimes that may not be completely correct. In this interface the predictions will be free of unwanted biases and errors- so it will be completely trust worthy. The doctors can also use this system to predict the results better. The lab technicians and the other health-care professionals can also use this predicting system to guide the people.
+
+
+### Use Case Diagram
+![UML](https://github.com/RiturajSaha/Health-Discernment-System/blob/master/images/UML.jpg=600x300)
 
 
 ### Technical Process
