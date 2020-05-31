@@ -60,7 +60,7 @@ If the user has a workstation that works on Windows OS then that person can easi
 ### Product Requirements
 ##### Operating Environment
 - **Operating System:** Minimum Windows XP or Windows VISTA. Better environment Windows 7, 8, 8.1, 10.
-- **Language:** Python 3.6
+- **Language:** Python 3.6 or Python 3.7
 - A workstation which will run on any Windows OS is needed to predict the diseases using this system.
 
 ##### Performance Requirements
