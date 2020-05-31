@@ -6,4 +6,5 @@ DISEASE DETECTION SYSTEM
 
 3) Open HDS.exe and run the application.
 
-NOTE: Python compiler is the primary requirement.
+NOTE: Python 3.6 0r 3.7 compiler is the primary requirement.
+DOWNLOAD LINK: https://www.python.org/downloads/
