@@ -23,7 +23,7 @@ reports say. In case the test results are negative, it will greatly help the pat
 
 
 ### Use Case Diagram
-![](https://github.com/RiturajSaha/Health-Discernment-System/blob/master/images/UML.jpg){:height="500px" width="200px"}
+<img src="https://github.com/RiturajSaha/Health-Discernment-System/blob/master/images/UML.jpg" width="300" height=""500>
 
 
 ### Technical Process
