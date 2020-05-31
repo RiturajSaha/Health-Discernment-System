@@ -62,7 +62,7 @@ def openfilename():
 def callback():  
   patient="\n IMAGE FILE NOT UPLOADED..."  
   try:
-    model = load_model('models/skin_cancer1.h5')
+    model = load_model('models/skin_cancer.h5')
     #model.summary()
     test_image=image.load_img(red("upload"),target_size=(224,224,3))
     #imgplot = plt.imshow(test_image)
