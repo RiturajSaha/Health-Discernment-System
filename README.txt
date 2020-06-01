@@ -1,4 +1,4 @@
-DISEASE DETECTION SYSTEM
+Health Discernment System
 
 1) Open requiremnts.exe to check and install required libraries (one time execution only).
 
