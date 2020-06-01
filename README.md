@@ -54,7 +54,7 @@ The analyzed result is then displayed to the user.
 
 
 ### Users and Characteristics
-The Health Discernment System has one active actor(patients along with healthcare professionals) and one cooperating system at the back end. The patients and health-care professionals like doctors and interns can access the system through a desktop for predicting diseases.
+The Health Discernment System has one active actor(patients along with healthcare professionals) and one cooperating system at the back end. The patients and health-care professionals like doctors and interns can access the system through a desktop for detecting diseases.
 
 
 ### Assumptions and Dependencies
