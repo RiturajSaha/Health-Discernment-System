@@ -42,15 +42,7 @@ def open_img():
    panel = Label(root, image = img) 
    panel.image = img 
    panel.place(x=455, y=100)
-      
-
-
-def toggle ():
-    global shown
-    if shown: l.grid_remove () 
-    else: l.grid () 
-    shown = not shown 
-    
+ 
     
     
 def openfilename(): 
