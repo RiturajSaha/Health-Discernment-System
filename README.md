@@ -3,7 +3,6 @@
 
 ### Product Link 
   **Google drive download link:** [*setup.exe*](https://drive.google.com/file/d/11L_tpYn9FnbbAXl0uWqs2YB63xWZMaVG/view?usp=sharing) 
-  (Give this repository a star to download the setup)
 
 
 ### Product Description
