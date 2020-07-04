@@ -28,8 +28,8 @@ reports say. In case the test results are negative, it will greatly help the pat
 
 ### Technical Process
 Following are the technologies that are used to develop the project:
-- **Front-end development:** Deep Learning, Transfer Learning
-- **Back-end development:** Tkinter
+- **Front-end development:** Tkinter
+- **Back-end development:** Deep Learning, Transfer Learning
 
 
 ### Product Functionality
