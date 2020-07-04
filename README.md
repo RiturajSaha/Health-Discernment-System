@@ -2,7 +2,8 @@
 
 
 ### Product Link 
-  **Google drive download link:** [*setup.exe*](https://drive.google.com/file/d/1Dz3SN6Tsv0pzUfOfvcxG-l9QwUAya6Cq/view?usp=sharing) 
+  **Google drive download link:** [*setup.exe*](https://drive.google.com/file/d/1Dz3SN6Tsv0pzUfOfvcxG-l9QwUAya6Cq/view?usp=sharing)
+  **Software testing video link:** [*Health_Discernment_System_test.mp4*](https://github.com/RiturajSaha/Health-Discernment-System/blob/master/Health_Discernment_System_test.mp4)
 
 
 ### Product Description
