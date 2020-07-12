@@ -24,7 +24,7 @@ reports say. In case the test results are negative, it will greatly help the pat
 
 
 ### Use Case Diagram
-<img src="https://github.com/RiturajSaha/Health-Discernment-System/blob/master/images/uml.png" height=500 width="100">
+<img src="https://github.com/RiturajSaha/Health-Discernment-System/blob/master/images/uml.png" height=300 width="1000">
 
 ### Technical Process
 Following are the technologies that are used to develop the project:
