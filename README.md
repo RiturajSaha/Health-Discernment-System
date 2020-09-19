@@ -93,4 +93,4 @@ All rights reserved by our team.
 - [*www.udemy.com*](https://www.udemy.com) - online learning platform
 
 
-(**Note:** The custom CNN models are not uploaded in the repository.)
+[**Note:** The custom CNN models are not uploaded in the repository]
