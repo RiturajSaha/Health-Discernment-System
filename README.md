@@ -17,6 +17,11 @@ Diseases like Malaria, Pneumonia, Breast cancer and Skin cancer are very common 
 | Breast Cancer  | 86.82%  |
 | Skin Cancer  | 84.77%  |
 
+### Product Screenshots
+<p align="center"><img src="https://github.com/RiturajSaha/Health-Discernment-System/blob/master/images/shot_1.png" height=500 width="900"></p>
+<p align="center"><img src="https://github.com/RiturajSaha/Health-Discernment-System/blob/master/images/shot_2.png" height=500 width="900"></p>
+<p align="center"><img src="https://github.com/RiturajSaha/Health-Discernment-System/blob/master/images/shot_3.png" height=500 width="900"></p>
+
 
 ### Product Scope
 This system will help to predict the medical results efficiently. In this predicting system, we will provide an user friendly interface that can be used by the users to detect whether their medical test results are positive or normal, i.e. it will detect the disease. This will ultimately help the patients to save time as they won’t have to run to the doctor just to know what their medical
