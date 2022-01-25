@@ -18,9 +18,9 @@ Diseases like Malaria, Pneumonia, Breast cancer and Skin cancer are very common 
 | Skin Cancer  | 84.77%  |
 
 ### Product Screenshots
-<p align="center"><img src="https://github.com/RiturajSaha/Health-Discernment-System/blob/master/images/shot_1.png" height=500 width="900"></p>
-<p align="center"><img src="https://github.com/RiturajSaha/Health-Discernment-System/blob/master/images/shot_2.png" height=500 width="900"></p>
-<p align="center"><img src="https://github.com/RiturajSaha/Health-Discernment-System/blob/master/images/shot_3.png" height=500 width="900"></p>
+<p align="center"><img src="https://github.com/RiturajSaha/Health-Discernment-System/blob/master/images/shot_1.png" height=300 width="800"></p>
+<p align="center"><img src="https://github.com/RiturajSaha/Health-Discernment-System/blob/master/images/shot_2.png" height=300 width="800"></p>
+<p align="center"><img src="https://github.com/RiturajSaha/Health-Discernment-System/blob/master/images/shot_3.png" height=300 width="800"></p>
 
 
 ### Product Scope
